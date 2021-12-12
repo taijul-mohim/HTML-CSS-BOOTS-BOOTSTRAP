@@ -1,0 +1,47 @@
+
+
+
+.navbar-brand{
+    font-size: 2em;
+    font-weight: bold;
+}
+.navbar #myMenu .navbar-nav .nav-item a{
+    color: white;
+    /* padding-right: 5px;
+    margin-right:5px ; */
+}
+.navbar #myMenu .navbar-nav .nav-item a:hover{
+    color: darkgrey;
+}
+/* header */
+.back{
+    background-size: cover; 
+   min-height:  90vh;
+   background-position: center ;
+   background-repeat: no-repeat;
+   border-radius: 0%;
+   margin-top:110px ; 
+ 
+}
+.heading{
+    margin-top: 50px;
+}
+/*media */
+@media only screen and (max-width:600px){
+.myclass{
+    margin-top: 350px;
+    text-align: center;
+}
+}
+/* <script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<br /> */
+.fi-color i{
+    color: #e994a2;
+}
+  
